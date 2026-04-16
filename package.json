@@ -1,0 +1,24 @@
+{
+  "name": "mytestelectron",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SkmullRodriguez/MyTestElectron#readme",
+  "bugs": {
+    "url": "https://github.com/SkmullRodriguez/MyTestElectron/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkmullRodriguez/MyTestElectron.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^41.1.0"
+  }
+}
